@@ -68,8 +68,6 @@ data/
     └── ...
 ```
 
-**Download Dataset:**
- [Link to dataset] (not included due to size)
 
 ### 3. Run Experiment
 
