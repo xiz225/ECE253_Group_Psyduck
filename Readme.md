@@ -17,14 +17,6 @@
 
 This project compares traditional image processing methods versus deep learning fine-tuning for object detection on degraded images.
 
-**Three Degradation Types:**
-
-1. Extreme Low-Light (ISO 5280)
-2. Motion Blur (1/8000s with camera shake)
-3. Gaussian Noise (σ=30)
-
-**Key Finding:** Traditional enhancement (gamma + CLAHE) completely failed on extreme low-light images (mAP: 0.035 → 0.000), while fine-tuning achieved 0.716 mAP (+1946% improvement).
-
 ------
 
 ## Repository Structure
